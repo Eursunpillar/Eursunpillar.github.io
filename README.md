@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Eursunpillar的个人网站
 
 You can use the [editor on GitHub](https://github.com/Eursunpillar/Eursunpillar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 歌词创作
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我从迷茫中醒来，
 
-```markdown
-Syntax highlighted code block
+你在绝望中离开。
 
-# Header 1
-## Header 2
-### Header 3
+悲伤得石沉大海，
 
-- Bulleted
-- List
+开心得正中下怀。
 
-1. Numbered
-2. List
+有人问你是否还在？
 
-**Bold** and _Italic_ and `Code` text
+凄风苦雨再戍轮台。
 
-[Link](url) and ![Image](src)
-```
+有人问我有何能耐？
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+渺渺星辰点点微埃。
 
-### Jekyll Themes
+爱，不会再来；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eursunpillar/Eursunpillar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+恨，冰释谁怀？
 
-### Support or Contact
+再忆起时是谁的不该？
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+再忆起时已青云之外。
+### 朗读
+
+倾情朗读 [课文朗读《项脊轩志》 情见乎辞，物在人亡](https://www.bilibili.com/video/BV1RL4y1e712/). 欢迎给我在B站上的音频投稿 `一键三连` 哦.
+
+### 其他
+
+[《春》朗读](https://www.bilibili.com/audio/au2502028?type=3&spm_id_from=333.999.0.0) .
